@@ -20,7 +20,7 @@ dependencies:
     git:
       url: https://github.com/upsidr/flutter_packages.git
       path: packages/local_auth/local_auth_android
-      ref: packages/local_auth
+      ref: feature/local-auth
   local_auth_darwin: ^1.4.0
 
 dev_dependencies:
